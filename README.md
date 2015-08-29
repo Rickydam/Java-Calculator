@@ -1,5 +1,5 @@
 # Java-Calculator
-A calculator coded using java
+A calculator coded in java
 
 Optimized for the Surface Pro 3.                                                                                                                                                     
 For a resolution of 2160 x 1440.

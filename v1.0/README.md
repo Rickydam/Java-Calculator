@@ -19,4 +19,4 @@
 - Add a clear all button
 - Pressing an operator after second number acts as an equal
 
-![alt tag](https://github.com/Rickydam/Java-ProteinCounter/blob/master/v1.7.png)
+![alt tag](https://github.com/Rickydam/Java-Calculator/blob/master/v1.0.png)

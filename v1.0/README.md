@@ -5,10 +5,10 @@
 ------------------- Bugs -------------------------                                        
 -> symbol means what the program should do
 
-- The calculator can only be used once so far. When the = button is pressed, the calculator will not work properly anymore because it has not yet been implemented
+- The calculator can only be used once so far. When the = button is pressed, the calculator will not work properly anymore because it has not yet been implemented                                   
 -> Make the calculator continuous
 
-- The decimal button does not have implementation yet
+- The decimal button does not have implementation yet                                         
 -> It should put a decimal
 
 ------------------- Add -------------------------                                              

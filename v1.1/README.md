@@ -24,3 +24,4 @@ Improvements & Bug Fixes
 To Be Added
 - Implement the code for the brackets
 - Add some more advanced features such as the ones on scientific calculators
+- Add a delete(DEL) button to remove the last added number or operand

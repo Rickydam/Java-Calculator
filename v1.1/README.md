@@ -1,6 +1,6 @@
 # v1.1
 
-![alt tag](https://github.com/Rickydam/Java-Calculator/blob/master/v1.1/v1.1.png)
+<img src="https://github.com/Rickydam/Java-Calculator/blob/master/v1.1/v1.1.png" width="150" height="237" />
 
 New Content
 - Implemented the code for the decimal point

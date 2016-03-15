@@ -19,4 +19,4 @@
 - Add a clear all button
 - Pressing an operator after second number acts as an equal
 
-<img src="https://github.com/Rickydam/Java-Calculator/blob/master/v1.0/v1.0.png" width="150" height="237" />
+<img src="https://github.com/Rickydam/Java-Calculator/blob/master/v1.0/v1.0.png" width="150" height="210" />
